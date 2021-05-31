@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chanypraise
-- 👀 I’m interested in ... computers, programs, software, tech.
-- 🌱 I’m currently learning ... cs50x, cs50T, cs50s
-- 💞️ I’m looking to collaborate on ... not much atm
+- 👀 I’m interested in ... web development
+- 🌱 I’m currently learning ... The Odin Project
+- 💞️ I’m looking to collaborate on ... The Odin Project
 - 📫 How to reach me ... cryptychan@protonmail.com 
 
 <!---
